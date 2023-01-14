@@ -1,0 +1,15 @@
+body {
+    /*  */
+}
+
+.posts-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+ 
+.posts-item{
+    width: 38%;
+    box-sizing: border-box;
+}
+

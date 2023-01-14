@@ -1,0 +1,42 @@
+
+nav{
+    background-color: #131E00;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem;
+    max-width: 100%;
+    min-height: 10vh;
+}
+
+.logo img{
+    width: 35%;
+}
+
+.nav-menu{
+    display: flex;
+    list-style: none;
+    font-size: x-large;
+    gap: 1rem;
+    margin-right: 4%;
+}
+
+.nav-menu-li{
+}
+
+.nav-menu-li-link{
+    text-decoration: none;
+    color: inherit;
+    height: 100%;
+    padding: .25rem;
+}
+
+.nav-menu-li-link:hover{
+    background-color: #555;
+    cursor: pointer;
+}
+
+
+

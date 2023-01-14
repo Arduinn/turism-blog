@@ -1,0 +1,49 @@
+.sidebar{
+    flex: 15%;
+    margin: 20px; 
+    padding-bottom: 30px;
+    background-color: rgb(211, 207, 207);
+    position: absolute;
+    top: 22%;
+    right: 0;
+    width: 20%;
+    border-radius: 5%;
+}
+
+.sidebar-title{
+    text-align: center;
+}
+
+.sidebar-items{
+    text-align: center;
+}
+
+.sidebar-pharse{
+    font-size: 15px;
+    margin-top: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    justify-content: center;
+}
+
+.sidebar-img{
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    justify-content: center;
+
+}
+
+.sidebar-events{
+    text-align: center;
+
+}
+
+.sidebar-description{
+    margin-top: 5%;
+    text-align: center;
+    margin: auto;
+}
